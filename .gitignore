@@ -1,0 +1,22 @@
+# Go
+/bin/
+/build/
+/dist/
+.env
+
+#vscode
+/.vscode
+
+# Wails
+/frontend/dist/
+/frontend/wailsjs/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+*.exe
+
+
+/.vscode
